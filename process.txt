@@ -1,0 +1,37 @@
+required files:
+cutebound male head (usually)
+cutebound gic helmet
+measuring.png
+pdn image (optional, recommended)
+
+instructions:
+open all three files
+open monster
+lay cutebound helmet over cutebound head
+copypaste onto monster
+select up to outer measuring border
+put layers into folder
+turn both layers to image material
+tile both
+rasterize
+move around
+match head color to rest of monster
+hide folder
+magic wand skin color
+layer mask on folder
+reduce opacity
+use lasso tool to draw on layer mask
+check for impurities
+make new folder if needed
+copy path of new folder
+shift+S to save as
+paste path, name
+alt+w to save png duplicate
+
+Tips:
+Make use of mkdir in powershell!
+Just replace "gic core" with "gic_cutebound_test", then you'll have a quick folder to save the new resource to.
+
+Sub View lets you "stockpile" images to edit.
+
+At some point, the process involves masking the skin purple and removing the purple face.

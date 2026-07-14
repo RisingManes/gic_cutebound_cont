@@ -1,0 +1,12 @@
+{
+  "version" : "0.0.2",
+//  "tags" : "NPCs and Creatures|Armor and Clothes",
+  "author" : "ErrantWitch",
+  "description" : "This mod continues from girzu's work and adds several monsters onto the cute fold. Let's make the galaxy a cuter yet conflicted place!",
+  "name" : "gic_cutebound_cont",
+  "priority" : 999999,
+  "friendlyName" : "Make the galaxy a cuter yet conflicted place",
+ // "steamContentId" : "3090704586",
+  "link" : "steam://url/CommunityFilePage/3090704586",
+  "includes" : ["[GIC] Galaxy in Conflict Reskin patch"]
+}
