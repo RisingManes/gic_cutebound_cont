@@ -35,3 +35,5 @@ Just replace "gic core" with "gic_cutebound_test", then you'll have a quick fold
 Sub View lets you "stockpile" images to edit.
 
 At some point, the process involves masking the skin purple and removing the purple face.
+
+NOW WORKING ON: gic_cutebound_test\monsters\CRUSADE\gic_crusade_ichizenshinsengumi\
