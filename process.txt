@@ -30,10 +30,11 @@ alt+w to save png duplicate
 
 Tips:
 Make use of mkdir in powershell!
-Just replace "gic core" with "gic_cutebound_test", then you'll have a quick folder to save the new resource to.
+Just replace "gic core" with "gic_cutebound_cont", then you'll have a quick folder to save the new resource to.
 
 Sub View lets you "stockpile" images to edit.
 
 At some point, the process involves masking the skin purple and removing the purple face.
 
-NOW WORKING ON: gic_cutebound_test\monsters\CRUSADE\gic_crusade_ichizenshinsengumi\
+NOW WORKING ON: gic_cutebound_cont\monsters\CRUSADE\gic_crusade_ichizenshinsengumi_wounded\
+Also, look at Haraldr.
