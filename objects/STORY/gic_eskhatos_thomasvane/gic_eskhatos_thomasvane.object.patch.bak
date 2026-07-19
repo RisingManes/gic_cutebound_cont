@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "path": "/orientations/0/imahePosition",
+        "value": 
+            [ -8, -1 ]
+                
+    },
+    {
+        "op": "replace",
+        "path": "/animationPosition",
+        "value": [ -8, -1 ]
+    }
+]
