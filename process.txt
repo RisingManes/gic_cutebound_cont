@@ -36,5 +36,9 @@ Sub View lets you "stockpile" images to edit.
 
 At some point, the process involves masking the skin purple and removing the purple face.
 
-NOW WORKING ON: gic_cutebound_cont\monsters\CRUSADE\gic_crusade_ichizenshinsengumi_wounded\
-Also, look at Haraldr.
+NOW WORKING ON: 
+monsters\BRIGHT
+monsters\SYNTH\
+
+Fun hat for Tylian!
+C:\Program Files (x86)\Steam\steamapps\common\Starbound\a mod\gic_cutebound\items\armors_old\SPECIAL\JIANGSHI\gic_jiangshi_cap\head.png
