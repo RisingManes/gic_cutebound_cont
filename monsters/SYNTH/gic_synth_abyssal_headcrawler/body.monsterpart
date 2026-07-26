@@ -1,0 +1,9 @@
+{
+  "name" : "gic_synth_abyssal_headcrawler",
+  "category" : "gic_synth_abyssal_headcrawler",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "gic_synth_abyssal_headcrawler.png"
+  }
+}
