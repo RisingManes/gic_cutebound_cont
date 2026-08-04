@@ -1,0 +1,4 @@
+[
+    [{"op":"test","path":"/animatedParts/stateTypes/body/states/idle/cycle","value":0.2},
+    {"op":"replace","path":"/animatedParts/stateTypes/body/states/idle/cycle","value":0.45}]
+]
