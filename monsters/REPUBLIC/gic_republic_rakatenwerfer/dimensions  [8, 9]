@@ -1,0 +1,9 @@
+{
+  "name" : "gic_republic_rakatenwerfer",
+  "category" : "gic_republic_rakatenwerfer",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "gic_republic_rakatenwerfer.png"
+  }
+}

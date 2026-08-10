@@ -1,0 +1,9 @@
+{
+  "name" : "gic_republic_mortarman",
+  "category" : "gic_republic_mortarman",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "gic_republic_mortarman.png"
+  }
+}
