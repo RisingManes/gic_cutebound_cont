@@ -1,0 +1,3 @@
+If you're wondering why this is a .sai file, it's because this was from the Cutebound patch.
+It was originally gic_wolftengu_shieldmaiden.
+Credit to girzu for the original asset!
